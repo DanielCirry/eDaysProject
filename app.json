@@ -1,0 +1,12 @@
+{
+  "name": "eDaysProject",
+  "displayName": "eDaysProject",
+  "expo": {
+    "name": "eDaysProject",
+    "slug": "eDaysProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
